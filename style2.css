@@ -33,3 +33,9 @@ text-transform:uppercase;
 border-color:#ee4b08;
 border-width:4px;
 }
+.btn-primary.btn-xl{
+background-color:black;
+text-transform:uppercase;
+border-color:#ee4b07;
+border-width:9px;
+}
